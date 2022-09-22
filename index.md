@@ -4,11 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of Minnesota -- Twin Cities.
-
-## Research Interests
-
-- 
+I am a Ph.D. student in the economics department of the University of Minnesota expecting to graduate in May 2023. 
 
 
 ## Working Papers
@@ -28,7 +24,12 @@ I am a Ph.D. student at University of Minnesota -- Twin Cities.
 
 ## Working Projects
 - **More Data, More Inequality**
+  <br>
+  **Description**: 
 - **Knowledge Workers**
   <br>
   with: [Ellen McGrattan](http://users.econ.umn.edu/~erm/)
 
+## References
+
+## CV and Supporting Statments
