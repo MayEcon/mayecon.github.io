@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Economics Ph.D. student at University of Minnesota -- Twin Cities with an expected graduation of May 2023. When I am not wading through code, I enjoy cooking, gardening, and snowboarding.
+I am an Economics Ph.D. student at University of Minnesota with an expected graduation of May 2023. When I am not wading through code, I enjoy cooking, gardening, and snowboarding.
 
 
 ## Working Papers
@@ -35,4 +35,4 @@ I am an Economics Ph.D. student at University of Minnesota -- Twin Cities with a
 ## References
 
 ## CV and Supporting Statments
-- [CV](mayecon.github.io/assets/Thomas_J_May_CV.pdf)
+- [CV](http://mayecon.com/assets/Thomas_J_May_CV.pdf)
