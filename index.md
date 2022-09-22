@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the economics department of the University of Minnesota expecting to graduate in May 2023. 
+I am an Economics Ph.D. student at University of Minnesota -- Twin Cities with an expected graduation of May 2023. 
 
 
 ## Working Papers
