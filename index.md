@@ -29,4 +29,6 @@ I am a Ph.D. student at University of Minnesota -- Twin Cities.
 ## Working Projects
 - **More Data, More Inequality**
 - **Knowledge Workers**
+  <br>
+  with: [Ellen McGrattan](http://users.econ.umn.edu/~erm/)
 
