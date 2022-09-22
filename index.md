@@ -8,15 +8,18 @@ I am a Ph.D. student at University of Minnesota -- Twin Cities.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- 
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Working Papers
+
+- **Innovation and Competition Policy**
+- <br>
+  Job Market Paper
+  <br>
+  Abstract
+
+## Working Projects
 
 ## Publications
 
@@ -44,7 +47,3 @@ I am a Ph.D. student at University of Minnesota -- Twin Cities.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
