@@ -35,3 +35,4 @@ I am an Economics Ph.D. student at University of Minnesota -- Twin Cities with a
 ## References
 
 ## CV and Supporting Statments
+- [CV](mayecon.github.io/assets/Thomas_J_May_CV.pdf)
