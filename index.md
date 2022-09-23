@@ -38,11 +38,12 @@ I am an Economics Ph.D. student at University of Minnesota with an expected grad
 - Professor Ellen McGrattan, erm@umn.edu
 - Professor Anmol Bhandari, bhandari@umn.edu
 - Professor Kjetil Storesletten, kstoresl@umn.edu
-- 
+
 **Placement Directors:**
 - Professors Manuel Amador and Mariacristina De Nardi, mneconplacedir@umn.edu
 
 **Placement Coordinator:**
 - Catherine Bach, mneconjm@umn.edu
+
 ## CV and Supporting Statments
 - [CV](http://mayecon.com/assets/Thomas_J_May_CV.pdf)
