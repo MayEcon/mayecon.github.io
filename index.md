@@ -40,9 +40,11 @@ I am an Economics Ph.D. student at University of Minnesota with an expected grad
 - Professor Kjetil Storesletten, kstoresl@umn.edu
 <br>
 **Placement Directors:**
+<br>
 - Professors Manuel Amador and Mariacristina De Nardi, mneconplacedir@umn.edu
 <br>
 **Placement Coordinator:**
+<br>
 - Catherine Bach, mneconjm@umn.edu
 ## CV and Supporting Statments
 - [CV](http://mayecon.com/assets/Thomas_J_May_CV.pdf)
