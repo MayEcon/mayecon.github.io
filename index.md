@@ -25,7 +25,8 @@ I am an Economics Ph.D. student at University of Minnesota with an expected grad
 ## Work In Progress
 - **More Data, More Inequality**
   <br>
-  **Description**: 
+  **Description**: Firms are spending billions on collecting and processing data about their customers. An important question is how firms are utilizing this data and how it shapes their relationship with their consumers. This project studies how firms can employ data to effectively price discriminate. The initial results are striking. Even under conservative assumptions, an increase in data collection efficiency leads to a substantial increase in asset inequality and a decrease in household welfare. 
+  <br>
 - **Knowledge Workers**
   <br>
   with: [Ellen McGrattan](http://users.econ.umn.edu/~erm/)
