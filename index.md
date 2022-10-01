@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Economics Ph.D. student at University of Minnesota who is on the job market for 2022-2023. I will be available for interviews at the ASSA Meeting in January 2023. My research interests are macroeconomics, firm dynamcis, and intangible investments. When I am not wading through code, I enjoy cooking, gardening, and snowboarding.
+I am an Economics Ph.D. student at University of Minnesota who is on the job market for 2022-2023. I will be available for interviews at the ASSA Meeting in January 2023. My research interests are macroeconomics, firm dynamcis, and intangible investments. When I am not wading through data, I enjoy cooking, gardening, and snowboarding.
 
 
 ## Working Papers
