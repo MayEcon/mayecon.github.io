@@ -31,7 +31,7 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
   <br>
   with: [Ellen McGrattan](http://users.econ.umn.edu/~erm/)
   <br>
-  **Description**: Utilizing IRS admistrative data and machine learning, this project measures the labor input of firms' investment in intangible capital. In contrast to previous studies measuring intangible investments, this project can identify investment for each major type of that invest such as research and development, marketing, etc. Between the scope of the data --- every firm in the US --- and this specificity, this will be the most compressive measurement of intangible investments in the US.  
+  **Description**: Utilizing IRS admistrative data and machine learning, this project measures the labor input of firms' investment in intangible capital. Using machine learning to identify worker types, this project can identify investment for each major type of that invest such as research and development, marketing, software, etc. Between the scope of the data --- every firm in the US --- and this specificity, this will be the most compressive measurement of intangible investments in the US.  
 
 ## References
 **Letter Writers:**
