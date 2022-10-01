@@ -1,6 +1,6 @@
 # Basic Information 
 title: Thomas J. May
-affiliation: <a href="mayecon.github.io/assets/Thomas_J_May_CV.pdf">Link to CV</a>
+affiliation: University of Minnesota
 email: may00013@umn.edu
 
 # Search Engine Optimization (SEO)
@@ -11,9 +11,7 @@ canonical: mayecon.com
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-github_link: https://github.com/mayecon
 linkedin: https://www.linkedin.com/in/mayecon/
-google_scholar: http://mayecon.com/assets/Thomas_J_May_CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
