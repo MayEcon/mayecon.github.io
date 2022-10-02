@@ -35,15 +35,15 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
 
 ## References
 **Letter Writers:**
-- Professor Ellen McGrattan, erm@umn.edu
-- Professor Anmol Bhandari, bhandari@umn.edu
-- Professor Kjetil Storesletten, kstoresl@umn.edu
+- Professor Ellen McGrattan, <a href="mailto:erm@umn.edu">erm@umn.edu</a>
+- Professor Anmol Bhandari, <a href="mailto:bhandari@umn.edu">bhandari@umn.edu</a>
+- Professor Kjetil Storesletten,<a href="mailto: kstoresl@umn.edu"> kstoresl@umn.edu</a>
 
 **Placement Directors:**
-- Professors Manuel Amador and Mariacristina De Nardi, mneconplacedir@umn.edu
+- Professors Manuel Amador and Mariacristina De Nardi,<a href=" mneconplacedir@umn.edu"> mneconplacedir@umn.edu</a>
 
 **Placement Coordinator:**
-- Catherine Bach, mneconjm@umn.edu
+- Catherine Bach, <a href="mailto:mneconjm@umn.edu">mneconjm@umn.edu</a>
 
 ## CV and Supporting Statments
 - [CV](http://mayecon.com/assets/Thomas_J_May_CV.pdf)
