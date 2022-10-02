@@ -37,10 +37,10 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
 **Letter Writers:**
 - Professor Ellen McGrattan, <a href="mailto:erm@umn.edu">erm@umn.edu</a>
 - Professor Anmol Bhandari, <a href="mailto:bhandari@umn.edu">bhandari@umn.edu</a>
-- Professor Kjetil Storesletten,<a href="mailto:kstoresl@umn.edu">kstoresl@umn.edu</a>
+- Professor Kjetil Storesletten, <a href="mailto:kstoresl@umn.edu">kstoresl@umn.edu</a>
 
 **Placement Directors:**
-- Professors Manuel Amador and Mariacristina De Nardi,<a href="mailto:mneconplacedir@umn.edu">mneconplacedir@umn.edu</a>
+- Professors Manuel Amador and Mariacristina De Nardi, <a href="mailto:mneconplacedir@umn.edu">mneconplacedir@umn.edu</a>
 
 **Placement Coordinator:**
 - Catherine Bach, <a href="mailto:mneconjm@umn.edu">mneconjm@umn.edu</a>
