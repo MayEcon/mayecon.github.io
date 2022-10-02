@@ -44,6 +44,3 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
 
 **Placement Coordinator:**
 - Catherine Bach, <a href="mailto:mneconjm@umn.edu">mneconjm@umn.edu</a>
-
-## CV and Supporting Statments
-- [CV](http://mayecon.com/assets/Thomas_J_May_CV.pdf)
