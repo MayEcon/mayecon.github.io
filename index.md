@@ -35,8 +35,8 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
 
 ## References
 **Letter Writers:**
-- Professor Ellen McGrattan, <a href="mailto:erm@umn.edu">erm@umn.edu</a>
 - Professor Anmol Bhandari, <a href="mailto:bhandari@umn.edu">bhandari@umn.edu</a>
+- Professor Ellen McGrattan, <a href="mailto:erm@umn.edu">erm@umn.edu</a>
 - Professor Kjetil Storesletten, <a href="mailto:kstoresl@umn.edu">kstoresl@umn.edu</a>
 
 **Placement Directors:**
