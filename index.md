@@ -11,7 +11,7 @@ I am an Economics Ph.D. student at University of Minnesota who is on the job mar
 
 - **Innovation and Competition Policy**
   <br>
-  [Job Market Paper](Documents/ThomasJMay_JMP.pdf)
+  Updated Draft Coming Soon
   <br>
   **Abstract:** It has become increasingly apparent to policymakers that optimal antitrust policy re- quires looking beyond traditional static analyses and considering the dynamic effects of policy. Such analysis is challenging as limited studies exist concerning dynamic compe- tition policy. This paper attempts to bridge this knowledge gap by developing a novel structural growth model containing the major motivations of mergers and acquisitions (M&A) activity. To enable estimation of the model, frontier natural language processing (NLP) techniques are employed to classify whether parties to an M&A transaction are currently operating in similar markets or whether acquirers are using M&A as an entry mechanism into new markets. Examining the overall impact of M&A on growth reveals a double-edged sword: policies that either completely shut down M&A or allow unre- stricted M&A both result in significantly lower growth rates than the baseline estimate. This motivates an optimal antitrust policy that accounts for dynamic effects.
 
