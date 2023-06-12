@@ -33,14 +33,3 @@ I am an Economics Ph.D. student at University of Minnesota. In the Fall of 2023,
   <br>
   **Description**: Utilizing IRS admistrative data and machine learning, this project measures the labor input of firms' investment in intangible capital. Using machine learning to identify worker types, this project can identify investment for each major type of that invest such as research and development, marketing, software, etc. Between the scope of the data --- every firm in the US --- and this specificity, this will be the most comprehensive measurement of intangible investments in the US.  
 
-## References
-**Letter Writers:**
-- Professor Ellen McGrattan, <a href="mailto:erm@umn.edu">erm@umn.edu</a>
-- Professor Anmol Bhandari, <a href="mailto:bhandari@umn.edu">bhandari@umn.edu</a>
-- Professor Kjetil Storesletten, <a href="mailto:kstoresl@umn.edu">kstoresl@umn.edu</a>
-
-**Placement Directors:**
-- Professors Manuel Amador and Mariacristina De Nardi, <a href="mailto:mneconplacedir@umn.edu">mneconplacedir@umn.edu</a>
-
-**Placement Coordinator:**
-- Catherine Bach, <a href="mailto:mneconjm@umn.edu">mneconjm@umn.edu</a>
