@@ -16,6 +16,8 @@ I am an assistant professor at California State University, Fullerton and a Proj
   **Abstract:** It has become increasingly apparent to policymakers that optimal antitrust policy re- quires looking beyond traditional static analyses and considering the dynamic effects of policy. Such analysis is challenging as limited studies exist concerning dynamic compe- tition policy. This paper attempts to bridge this knowledge gap by developing a novel structural growth model containing the major motivations of mergers and acquisitions (M&A) activity. To enable estimation of the model, frontier natural language processing (NLP) techniques are employed to classify whether parties to an M&A transaction are currently operating in similar markets or whether acquirers are using M&A as an entry mechanism into new markets. Examining the overall impact of M&A on growth reveals a double-edged sword: policies that either completely shut down M&A or allow unre- stricted M&A both result in significantly lower growth rates than the baseline estimate. This motivates an optimal antitrust policy that accounts for dynamic effects.
 
 - **On the Nature of Entrepreneurship**
+  <be>
+  Revise and Resubmit, Journal of Political Economics 
   <br>
   with: [Anmol Bhandari](http://www.bhandarianmol.com), [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/), [Ellen McGrattan](http://users.econ.umn.edu/~erm/), and Evan Schulz
   <br>[Current Draft](https://www.irs.gov/pub/irs-soi/22rpnatureofentrepreneurship.pdf)
