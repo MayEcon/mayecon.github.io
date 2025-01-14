@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor at California State University, Fullerton and a Project PIPE-LINE data science faculty fellow. My research interests are macroeconomics, firm dynamics, and regulatory policy. Additionally, I am actively developing techinuqes to apply machine learning and big data to macroeconomic questions. When I am not wading through data, I enjoy cooking, gardening, and snowboarding.
+I am an assistant professor at California State University, Fullerton and a Project PIPE-LINE data science faculty fellow. My research interests are macroeconomics, firm dynamics, and regulatory policy. Additionally, I am actively developing techniques to apply machine learning and big data to macroeconomic questions. When I am not wading through data, I enjoy cooking, gardening, and paragliding.
 
 
 ## Working Papers
