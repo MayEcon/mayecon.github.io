@@ -10,7 +10,7 @@ I am an assistant professor at California State University, Fullerton. My resear
 ## Working Papers
 
 - **On the Nature of Entrepreneurship**
-  <br> Conditionally Accepted, Journal of Political Economics 
+  <br> Accepted, Journal of Political Economics 
   <br>
   with: [Anmol Bhandari](http://www.bhandarianmol.com), [Tobey Kass](https://sites.google.com/umn.edu/tobeykass/), [Ellen McGrattan](http://users.econ.umn.edu/~erm/), and Evan Schulz
   <br>[Current Draft](https://www.irs.gov/pub/irs-soi/22rpnatureofentrepreneurship.pdf)
