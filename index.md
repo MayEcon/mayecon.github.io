@@ -14,6 +14,10 @@ I am an assistant professor at California State University, Fullerton. My resear
   <br>[Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/739823?__cf_chl_tk=Mes4TDLAo47jxpsN4yYDA2faJMQXdg1LsW2elTVmXQQ-1772838942-1.0.1.1-c45HD1ynXasuuuy9dY_JCyztgWLh9JQtMel_8OttkRU)
   <br>
 
+## Working Papers
+-**Subsidize First And Profit Later: An Incomplete Information Analysis of Technology Subsidization**<br>
+**Abstract:** To drive adoption, producers of new technologies frequently subsidize consumers, pricing below cost in early periods and recouping costs once an installed base is established. Regulating such subsidization requires distinguishing welfare-improving entrants building a customer base from inefficient firms exploiting investor subsidies to displace superior incumbents. This paper develops a two-period incomplete information model of technology adoption in which the entrant’s net benefit of the new technology is private information. This model admits a unique pooling equilibrium in which all types of the entrant post identical first-period rental rates. This result delivers a stark challenge for antitrust regulators: both a welfare-improving entrant and a welfare-reducing predator play the same strategy, and no price-based regulatory test can distinguish them.
+<br>[Paper](https://mayecon.com/Documents/SubsidizeNowProfitLater.pdf)
 
 ## Working Projects
 - **Market Structure and Inequality**<br>
